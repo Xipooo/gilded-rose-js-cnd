@@ -1,0 +1,15 @@
+*.swp
+*~
+*.bak
+.DS_Store
+
+# node
+node_modules/
+.nyc_output/
+coverage/
+
+# idea
+.idea/
+*.ipr
+*.iml
+*.iws
